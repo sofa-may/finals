@@ -9,7 +9,7 @@
                 <div class="info-text">
                     <h1>
                     <p class="animate-text-1">Персональный сайт,</p>
-                    <p class="text-2">Андрея Кузнецова</p>
+                    <p class="text-2">Софьи Майсовой</p>
                     </h1>
                 </div>
                 <h2 class="subtitle">
